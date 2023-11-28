@@ -48,3 +48,8 @@ yarn start
 ```
 
 > **Nota**: La aplicación tiene ajustes para funcionar con el conjunto de APIS en https://dummyjson.com/docs/ (Autenticacion, Productos, Usuarios).
+
+### Acceso de prueba
+
+- Usuario `kminchelle`
+- Contraseña: `0lelplR`
